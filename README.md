@@ -6,7 +6,7 @@ CodeX is a German beverage company that is aiming to make its mark in the Indian
 Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. Peter Pandey, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
 
 Primary Insights:
-1. Demographic Insights 
+1. Demographic Insights:
 a. Who prefers energy drink more? (male/female/non-binary?)
 b. Which age group prefers energy drinks more?
 c. Which type of marketing reaches the most Youth (15-30)?
