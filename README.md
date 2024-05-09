@@ -40,6 +40,7 @@ a. Which area of business should we focus more on our product development?
 (Branding/taste/availability)
 
 Secondary Insights:
+   
     1.Target Audience : Age Group 19-30,Male prefers energy drinks more
     
     2. Social Media & Online ads reaches the youth most
