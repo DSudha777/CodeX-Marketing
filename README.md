@@ -41,13 +41,22 @@ a. Which area of business should we focus more on our product development?
 
 Secondary Insights:
     1.Target Audience : Age Group 19-30,Male prefers energy drinks more
+    
     2. Social Media & Online ads reaches the youth most
+    
     3. Ideal Price for the product must be between 50-150
+    
     4. Most Preferred ingrdient is Caffeine and packaging is Compact and Portable Cans
+    
     5.Our barnd must be easily available in Supermarkets where 45% prefer to buy their energy drinks
+    
     6. Most like to consume energy drinks during sports  /exercise to increase energy and focus and also to stay awake during work/study
+    
     7. Reduced sugar content and natural /organic products are the most preferred
+    
     8. People are more concerned of health impact by consuming energy drinks
+    
     9. City Kolkata has very less number heard of our brand among the surveyed and city Pune and Delhi has very high tried before 'No' percentage
+    
     10.Young Sports person can be our brand ambassador as most people consume are young & during sports to increase energy
     
